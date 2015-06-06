@@ -29,6 +29,7 @@ class ViewController: UIViewController {
         //gitができましたとさ
         
         //課題をクリアしたぞ０−ーーーー
+        //ほー
     
     }
     
