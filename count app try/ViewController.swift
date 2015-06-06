@@ -27,6 +27,8 @@ class ViewController: UIViewController {
         number = number + 1
         label.text = String(number)
         //gitができましたとさ
+        
+        //課題をクリアしたぞ０−ーーーー
     
     }
     
